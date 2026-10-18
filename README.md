@@ -84,7 +84,11 @@ The project focuses on answering questions such as:
 
 ## 📁 File
 
-`1_Salary_Dashboard.xlsx`
+
+## 📂 File
+
+[📊 Download Salary Dashboard Excel File](./1_Salary_Dashboard.xlsx)
+
 
 ## 👨‍💻 Project Type
 
